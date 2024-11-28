@@ -29,7 +29,7 @@ flutter pub get
 ### 3. Add your OpenWeather API key
 Create a `.env` file at the root of your project and add your API key:
 ```env
-OPENWEATHER_API_KEY=your_api_key_here
+APIKEY=your_api_key_here
 ```
 
 ### 4. Run the app
